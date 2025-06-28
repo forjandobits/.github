@@ -1,12 +1,23 @@
-## FORJANDO BITS 👋
+## FORJANDO BITS 
 
-<!--
+💻 Sobre Nós
+Somos uma empresa fictícia especializada no desenvolvimento de sistemas modernos e eficientes, com foco em tecnologias fundamentais da web: HTML5, CSS3 e JavaScript.
 
-**Here are some ideas to get you started:**
+Nosso objetivo é entregar soluções digitais funcionais, acessíveis e visualmente atraentes, sempre com atenção aos detalhes e às boas práticas de desenvolvimento. Com uma base sólida nas linguagens essenciais da web, criamos interfaces e sistemas que são leves, responsivos e compatíveis com diferentes dispositivos e navegadores.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🎯 O que fazemos:
+
+Desenvolvimento de sistemas web personalizados
+
+Criação de interfaces responsivas e intuitivas
+
+Estilização avançada com CSS3 e design moderno
+
+Funcionalidades dinâmicas com JavaScript puro
+
+Otimização para desempenho e compatibilidade
+
+🚀 Acreditamos que simplicidade, clareza e eficiência são pilares do bom desenvolvimento. Trabalhamos com dedicação para transformar ideias em aplicações que realmente fazem a diferença.
+
+Se você valoriza código limpo, desempenho e uma web acessível para todos, estamos no mesmo caminho.
+
